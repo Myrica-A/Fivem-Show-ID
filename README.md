@@ -19,4 +19,4 @@ Config.DrawDistance
 
 # Requirements
 
-- [100%](Brain)
+- [100% Brain](https://names.com/Brain.com)
